@@ -4,7 +4,7 @@
 [2.1]: https://www.linkedin.com/in/milind-pandey-b1a683183/ (linkdin icon with padding)
 [3.1]: milindpandey2708@gmail.com (gmail icon with padding)
 
-🎓 I am a junior student at IIITV pursuing Computer Science and Engineering.
+🎓 I am a junior at IIITV pursuing Computer Science and Engineering.
 ✨ I pick Java for competitive programming.
 ✨ I prefer React framework for frontend and django for backend part.
 
