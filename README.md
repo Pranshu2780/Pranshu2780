@@ -78,14 +78,14 @@
  
  <br />
  <br />
-<img src="https://github-readme-stats.vercel.app/api?username=Pranshu2780&show_icons=true&theme=radical&langs_count=8&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pranshu2780&show_icons=true&theme=radical" />
 <!--
 
 <br />
-<!--
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu2780&langs_count=8" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu2780&layout=compact"/>
-
+<!--
 **Pranshu2780/Pranshu2780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
