@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love watching Anime
 
 ### Connect with me:
-[<img align="left" alt="" width="22px" src="https://www.flaticon.com/free-icon/instagram_733558?term=instagram%20logo&page=1&position=5&related_item_id=733558"  />][https://www.instagram.com/l.ryuzaki_27/]
+<!-- [<img align="left" alt="" width="22px" src="https://www.flaticon.com/free-icon/instagram_733558?term=instagram%20logo&page=1&position=5&related_item_id=733558"  />][https://www.instagram.com/l.ryuzaki_27/] -->
 <!--
 **Pranshu2780/Pranshu2780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
