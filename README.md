@@ -15,7 +15,7 @@
 
 <!-- <p> -->
  [<img align="left" alt="" width="22px" 
- src="https://user-images.githubusercontent.com/47604864/102378076-6936de00-3feb-11eb-9f4a-2e57e5b69f3f.png" />](https://www.milindpandey2708@gmail.com)
+ src="https://user-images.githubusercontent.com/47604864/102378076-6936de00-3feb-11eb-9f4a-2e57e5b69f3f.png" />](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQnchQklRXclRpxCHFsWnWPGZBMnPqmNBLDLBKjWGWrpQpnmpntXjXqMtcngtDCLLNdGSL)
  
  
  [<img align="left" alt="" width="22px" 
@@ -25,7 +25,7 @@
  src="https://user-images.githubusercontent.com/47604864/102375725-d8f79980-3fe8-11eb-82e0-ee54caa50d9f.png"  />](https://twitter.com/Captain_Levi27)    
 
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> -->
 <!--
 
 
