@@ -77,8 +77,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br/>
