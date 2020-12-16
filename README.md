@@ -1,5 +1,5 @@
 ### Kon'nichiwa (Hi) 👋 , I am Milind Pandey
-
+![l ryuzaki](https://user-images.githubusercontent.com/47604864/102387652-a785ca80-3ff6-11eb-9811-797f3d5a4148.gif)
 ## I am a Full-Stack Developer
 - 🎓 I am a junior student at IIITV pursuing Computer Science and Engineering.
 - ✨ I pick Java for competitive programming.
