@@ -75,9 +75,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu2780&layout=compact" />
 <br />
 <br />
-<br />
-<br />
+<img src="https://camo.githubusercontent.com/28482ca6302e500bbf91716db8ce3891cb41533043b34e9148d60cae377b1d0b/68747470733a2f2f7869616f6c756f626f64696e672d76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d7869616f6c756f626f64696e672e7869616f6c756f626f64696e67"/>
 
+<br />
+<br />
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br/>
 <br/>
