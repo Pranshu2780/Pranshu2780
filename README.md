@@ -12,7 +12,12 @@
 <br />
 
 ### Connect with me:
+
 <!-- <p> -->
+ [<img align="left" alt="" width="22px" 
+ src="https://user-images.githubusercontent.com/47604864/102378076-6936de00-3feb-11eb-9f4a-2e57e5b69f3f.png" />](milindpandey2708@gmail.com)
+ 
+ 
  [<img align="left" alt="" width="22px" 
  src="https://user-images.githubusercontent.com/47604864/102374897-dd6f8280-3fe7-11eb-8476-b315e5044df1.png" />](https://www.instagram.com/l.ryuzaki_27/)
  
