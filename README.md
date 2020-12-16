@@ -76,7 +76,7 @@
 </tr>
 </table>
  
-
+<img src="https://github-readme-stats.vercel.app/api?username=Pranshu2780" />
 <!--
 
 
