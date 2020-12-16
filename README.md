@@ -9,6 +9,7 @@
 - ✨ I pick Java for competitive programming.
 - 🎓 I prefer ReactJS (Javascript) framework for frontend and django for backend part.
 - ⚡ Fun fact: I love watching Anime
+
 <br />
 
 ### Connect with me:
@@ -26,6 +27,12 @@
  
  [<img align="left" alt="" width="22px" 
  src="https://user-images.githubusercontent.com/47604864/102375725-d8f79980-3fe8-11eb-82e0-ee54caa50d9f.png"  />](https://twitter.com/Captain_Levi27)    
+
+
+### Skills
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+
 
 
 <!-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> -->
