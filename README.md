@@ -83,8 +83,7 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu2780&langs_count=8" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu2780&layout=compact"/>
+
 <!--
 **Pranshu2780/Pranshu2780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
