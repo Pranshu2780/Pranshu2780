@@ -75,7 +75,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu2780&layout=compact" />
 <br />
 <br />
-<img src="https://profile-counter.glitch.me/{https://github.com/Pranshu2780}/count.svg" />
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 <br />
 <br />
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
