@@ -15,6 +15,9 @@
 
 <!-- <p> -->
  [<img align="left" alt="" width="22px" 
+ src="https://user-images.githubusercontent.com/47604864/102381927-d5b3dc00-3fef-11eb-892d-e65f16d9d199.png" />](https://www.linkedin.com/in/milind-pandey-b1a683183/)
+
+[<img align="left" alt="" width="22px" 
  src="https://user-images.githubusercontent.com/47604864/102378076-6936de00-3feb-11eb-9f4a-2e57e5b69f3f.png" />](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQnchQklRXclRpxCHFsWnWPGZBMnPqmNBLDLBKjWGWrpQpnmpntXjXqMtcngtDCLLNdGSL)
  
  
@@ -42,5 +45,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
