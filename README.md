@@ -13,14 +13,15 @@
 
 ### Connect with me:
 <p>
-  [<img align="left" alt="" width="22px" 
- src="https://user-images.githubusercontent.com/47604864/102374897-dd6f8280-3fe7-11eb-8476-b315e5044df1.png" />](https://www.instagram.com/l.ryuzaki_27/)
+  [Instagram](https://www.instagram.com/l.ryuzaki_27/)
 <!--   [<img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/47604864/102375725-d8f79980-3fe8-11eb-82e0-ee54caa50d9f.png"  />]
    (https://twitter.com/Captain_Levi27)    -->
 
 </p>
-
 <!--
+<img align="left" alt="" width="22px" 
+ src="https://user-images.githubusercontent.com/47604864/102374897-dd6f8280-3fe7-11eb-8476-b315e5044df1.png" />
+
 **Pranshu2780/Pranshu2780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
