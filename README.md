@@ -5,9 +5,9 @@
 [3.1]: milindpandey2708@gmail.com (gmail icon with padding)
 
 ## I am a Full-Stack Developer
--🎓 I am a junior student at IIITV pursuing Computer Science and Engineering.
--✨ I pick Java for competitive programming.
--🎓 I prefer ReactJS (Javascript) framework for frontend and django for backend part.
+- 🎓 I am a junior student at IIITV pursuing Computer Science and Engineering.
+- ✨ I pick Java for competitive programming.
+- 🎓 I prefer ReactJS (Javascript) framework for frontend and django for backend part.
 - ⚡ Fun fact: I love watching Anime
 
 ### Connect with me:
