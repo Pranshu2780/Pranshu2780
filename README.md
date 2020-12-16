@@ -61,7 +61,7 @@
 
 <td><img src="https://github.com/" width="22px" /></td>
 
-<td><img src="https://www.google.com/search?q=vs+code&tbm=isch&source=iu&ictx=1&fir=RITWFXACUpaxBM%252CuJyFN8Eg71oS0M%252C%252Fm%252F0134xwrk&vet=1&usg=AI4_-kQvzK3p-X2oLsnr8sstB1EUidhAUw&sa=X&ved=2ahUKEwj55PyLiNPtAhVM63MBHVN6CCEQ_B16BAgsEAE#imgrc=RITWFXACUpaxBM" width="22px" /></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="22px" /></td>
 
 <!-- <td><img src="" width="22px" /></td>
 
