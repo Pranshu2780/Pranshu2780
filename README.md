@@ -74,6 +74,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pranshu2780&show_icons=true&theme=radical&count_private=true" />
 
 
-
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
