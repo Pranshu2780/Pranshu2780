@@ -1,9 +1,5 @@
 ### Kon'nichiwa (Hi) 👋 , I am Milind Pandey
 
-[1.1]: https://twitter.com/Captain_Levi27 (twitter icon with padding)
-[2.1]: https://www.linkedin.com/in/milind-pandey-b1a683183/ (linkdin icon with padding)
-[3.1]: milindpandey2708@gmail.com (gmail icon with padding)
-
 ## I am a Full-Stack Developer
 - 🎓 I am a junior student at IIITV pursuing Computer Science and Engineering.
 - ✨ I pick Java for competitive programming.
@@ -14,7 +10,6 @@
 
 ### Connect with me:
 
-<!-- <p> -->
  [<img align="left" alt="" width="22px" 
  src="https://user-images.githubusercontent.com/47604864/102381927-d5b3dc00-3fef-11eb-892d-e65f16d9d199.png" />](https://www.linkedin.com/in/milind-pandey-b1a683183/)
 
@@ -63,9 +58,6 @@
 </table>
 <!--<img src="" width="22px" /> -->
 
-
-
-<!-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> -->
 <!--
 
 
