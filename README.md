@@ -75,7 +75,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu2780&layout=compact" />
 <br />
 <br />
-<img src="https://profile-counter.glitch.me/{Pranshu2780}/count.svg"/>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Pranshu2780.Pranshu2780" />
 <br />
 <br />
