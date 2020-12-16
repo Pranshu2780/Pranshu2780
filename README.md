@@ -71,16 +71,14 @@
 
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Pranshu2780&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pranshu2780&show_icons=true&theme=radical&count_private=true" />
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu2780&layout=compact" />
 <br />
-<br />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Pranshu2780.Pranshu2780" />
-<br />
 <br />
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br/>
-<br/>
+
 
