@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/47604864/102387652-a785ca80-3ff6-11eb-9811-797f3d5a4148.gif"  height="260px" width="320px"/>
+<img align="right" src="https://user-images.githubusercontent.com/47604864/102387652-a785ca80-3ff6-11eb-9811-797f3d5a4148.gif"  height="260px" width="340px"/>
 
 ## Kon'nichiwa (Hi) 👋 , I am Milind Pandey
 
