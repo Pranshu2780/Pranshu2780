@@ -69,7 +69,7 @@
 
 <br />
 <br />
-[![Milind Pandey's github stats](https://github-readme-stats.vercel.app/api?username=Pranshu2780)](https://github.com/anuraghazra/github-readme-stats)
+[![Milind Pandey's github stats](https://github-readme-stats.vercel.app/api?username=Pranshu2780)](https://github.com/Pranshu2780/github-readme-stats)
 
 <!-- <td><img src="" width="22px" /></td>
 
