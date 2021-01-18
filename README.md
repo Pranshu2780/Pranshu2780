@@ -70,8 +70,8 @@
 
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Pranshu2780&show_icons=true&theme=radical&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=Pranshu2780&show_icons=true&theme=radical"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Pranshu2780&show_icons=true&theme=radical&count_private=true" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=Pranshu2780&show_icons=true&theme=chartreuse-dark&count_private=true" />
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu2780&layout=compact" />
