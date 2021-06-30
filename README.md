@@ -6,7 +6,7 @@
 - 🎓 I am a junior student at IIITV pursuing Computer Science and Engineering.
 - ✨ I pick Java for competitive programming.
 - 🎓 I prefer ReactJS (Javascript) framework for frontend and django for backend part.
-- ⚡ Fun fact: I love watching Anime
+- ⚡ Fun fact: I love watching Anime.
 
 <br />
 
