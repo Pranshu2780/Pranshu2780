@@ -1,6 +1,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/47604864/102387652-a785ca80-3ff6-11eb-9811-797f3d5a4148.gif"  height="260px" width="340px"/>
 
-## Kon'nichiwa (Hi) 👋 There , I am Milind Pandey
+## Kon'nichiwa (Hi) 👋 There, I am Milind Pandey
 
 ### I am a Full-Stack Developer
 - 🎓 I am a junior student at IIITV pursuing Computer Science and Engineering.
