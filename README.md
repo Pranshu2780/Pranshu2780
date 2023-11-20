@@ -3,9 +3,9 @@
 ## Kon'nichiwa (Hi) 👋 There, I am Milind Pandey
 
 ### I am a Full-Stack Developer
-- 🎓 I am a senior student at IIITV pursuing Computer Science and Engineering.
+- 🎓 Graduated from IIIT Vadodara.
 - ✨ I pick Java for competitive programming.
-- 🎓 I prefer ReactJS (Javascript) framework for frontend and Django for backend part.
+- 🎓 I prefer ReactJS (Javascript) framework for front-end and Django for back-end part.
 - ⚡ Fun fact: I love watching Anime.
 
 <br />
